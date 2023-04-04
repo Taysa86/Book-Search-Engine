@@ -7,7 +7,7 @@ A search engine using the Google Books API that has been refactored from a RESTf
     N/A
 
 # Usage
-
+ App is currently a work in progress. I cannot get it to stop crashing when I try to start the server. 
 
 # Credits
 My instructor Charlie and the TA's helped a ton with fixing errors in this. I had to uninstall and reinstall bcrypt for some reason, among many other things.
